@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Stepper from './App'
+import Stepper from './Stepper'
 
 ReactDOM.render(
     <Stepper />,
